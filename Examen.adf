@@ -1,0 +1,28 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Examen
+[Library]
+Examen=.\Examen\Examen.lib
+[$LibMap$]
+Examen=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/SumadorResta.v=-1
+/tb_Circuito_Completo.v=-1
+[Files.Data]
+.\src\SumadorResta.v=Verilog Source Code
+.\src\tb_Circuito_Completo.v=Verilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
